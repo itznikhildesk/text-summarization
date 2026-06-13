@@ -1,0 +1,16 @@
+streamlit
+transformers
+torch
+torchvision
+torchaudio
+sentencepiece
+protobuf
+pandas
+numpy
+plotly
+psutil
+rouge-score
+PyMuPDF
+pypdf
+scikit-learn
+accelerate

@@ -1,0 +1,5 @@
+Sustainable AI is an emerging field that focuses on the environmental impact of artificial intelligence. As models grow larger, their energy consumption and carbon footprint increase significantly. 
+
+GreenSumm aims to address this by promoting "Green AI" - AI that is efficient and environmentally friendly. By using techniques like knowledge distillation and quantization, we can create models that perform well on mobile devices while consuming a fraction of the power.
+
+This project demonstrates that we don't always need the largest models to get useful results, especially in resource-constrained environments like mobile phones or IoT edge devices.
